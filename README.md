@@ -1,5 +1,6 @@
 # COM3240: Adaptive Intelligence 
 ### Assignment 1: Unsupervised Learning
+#### Alexandra-Cristina Butoi
 
 The file "Assignment1.ipynb" contains all the code required in order the reproduce the results from the report. 
 There are several steps that must be followed, indicated the sub-headings in the notebook:
