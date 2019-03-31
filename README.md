@@ -2,7 +2,8 @@
 ### Assignment 1: Unsupervised Learning
 #### Alexandra-Cristina Butoi
 
-The file "Assignment1.ipynb" contains all the code required in order the reproduce the results from the report. 
+The file "Assignment1.ipynb" contains all the code required in order the reproduce the results from the report. Each experiment was run using 10 different initial conditions (10 different seeds) and the results were averaged. In order to change the initial conditions, you need to change the seed. 
+
 There are several steps that must be followed, indicated by the sub-headings in the notebook:
 
 1. Import libraries: Run the cell that imports libraries.
